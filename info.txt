@@ -46,3 +46,15 @@ Ejemplo:
 </script>
 
 El banner se mostrará como puede ver en la demostración personalizada .
+
+<!-- Cookies -->
+<script type="text/javascript" id="cookieinfo"
+	src="//grecorlink.github.io/cookie/js/cookieinfo.min.js"
+	data-message="Utilizamos cookies para mejorar su experiencia. Al continuar visitando este sitio, usted acepta nuestro uso de cookies."
+		data-moreinfo="WEB URL DE politica-de-cookies/"
+		data-linkmsg="Más Información"
+		data-close-text="Ok"
+		data-mask="true"
+		data-mask-opacity="0.0">
+</script>
+<!-- Cookies -->

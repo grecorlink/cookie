@@ -58,3 +58,5 @@ El banner se mostrará como puede ver en la demostración personalizada .
 		data-mask-opacity="0.0">
 </script>
 <!-- Cookies -->
+
+Creditos: Glink - cookieinfoscript

@@ -1,0 +1,48 @@
+PASO 1:
+
+<script type="text/javascript" id="cookieinfo"
+	src="//grecorlink.github.io/cookie/js/cookieinfo.min.js">
+</script>
+
+PASO 2:
+
+Para que la personalización sea lo más fácil posible, puede utilizar los siguientes atributos de
+
+data-font-size - text size of the message and the link (default: 14px)
+data-font-family - font family of the message and the link (default: verdana, arial, sans-serif)
+data-text-align - position of the text (default: center)
+data-height - banner height (default: 31 pixels)
+data-fg - banner text color (default: #333)
+data-bg - banner background color (default: #eee)
+data-link - link text color (default: #31A8F0)
+data-divlink - button text color (default: #000)
+data-divlinkbg - button background color (default: #F1D600)
+data-position - banner position, top or bottom (default: bottom)
+data-message - message text (default: We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.)
+data-linkmsg - link text (default: More info)
+data-moreinfo - where the visitor can read more about cookies (default: https://wikipedia.org/wiki/HTTP_cookie
+data-close-text - the text/symbol for the close button (default: ✖)
+data-effect - effect to use (default: null)
+data-cookie - name for the cookie to store the cookiebanner acceptance information (default: we-love-cookies)
+data-expires - cookie expiry date/time (default is Infinity aka "Fri, 31 Dec 9999 23:59:59 GMT").
+data-cookie-path - Path to set for the cookie
+data-mask - whether to create a mask over the viewport (default: false). Clicking anywhere on the mask is considered as acceptance.
+data-mask-opacity - the opacity to use for the window mask (default: 0.5)
+data-mask-background - optional background style you wish to apply to the mask (default: #999)
+data-zindex - z-index to set on the notice (default: 255). If mask is used, the notice's z-index is automatically incremented by 1 so it appears above the mask)
+data-accept-on-scroll - when is set true window scrolling is considered as acceptance. (default: false)
+data-tracking - Tracking pixel (default: Off - To enable you will need to enter a (image) tracking url or script. Example: http://www.yourdomain.com/tracking.php?pixel)
+
+Ejemplo:
+
+<script type="text/javascript" id="cookieinfo"
+	src="//cookieinfoscript.com/js/cookieinfo.min.js"
+	data-bg="#645862"
+	data-fg="#FFFFFF"
+	data-link="#F1D600"
+	data-cookie="CookieInfoScript"
+	data-text-align="left"
+       data-close-text="Got it!">
+</script>
+
+El banner se mostrará como puede ver en la demostración personalizada .
